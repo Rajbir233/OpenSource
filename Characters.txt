@@ -5,3 +5,5 @@ Lion
 Banyan Tree
 Tortoise
 Butterfly
+Tiger
+Elephant
